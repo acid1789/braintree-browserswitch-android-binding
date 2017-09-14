@@ -3,13 +3,13 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.BrainTree.BrowserSwitch.Droid</id>
-        <version>0.1.3</version>
+        <version>0.1.4</version>
         <description>Xamarin Binding Library - BrainTree BrowserSwitch</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - BrainTree BrowserSwitch</title>
-        <releaseNotes>BrainTree BrowserSwitch v0.1.3</releaseNotes>
+        <releaseNotes>BrainTree BrowserSwitch v0.1.4</releaseNotes>
         <summary>Xamarin Binding Library - BrainTree BrowserSwitch</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/xand-braintree-browserswitch</projectUrl>
